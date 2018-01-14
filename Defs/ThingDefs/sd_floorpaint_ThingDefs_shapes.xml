@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+
+
+	<!--   shapes to make   -->
+
+	
+	<!-- 				squares			-->
+	
+	<ThingDef ParentName="sd_floorpaint_ShapeBase">
+		<defName>sd_floorpaint_shape_square</defName>
+		<label>square shape</label>
+		<graphicData>
+			<texPath>sd_floorpaint/shapes/square/sd_floorpaint_square</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<description>totaly needed</description>
+	</ThingDef>
+	
+	<ThingDef ParentName="sd_floorpaint_ShapeBase">
+		<defName>sd_floorpaint_shape_square_small</defName>
+		<label>small square corner shape</label>
+		<graphicData>
+			<texPath>sd_floorpaint/shapes/square_small/sd_floorpaint_square_small</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<description>totaly needed</description>
+	</ThingDef>
+	
+	<!-- 				triangles			-->
+	
+	<ThingDef ParentName="sd_floorpaint_ShapeBase">
+		<defName>sd_floorpaint_shape_triangle</defName>
+		<label>triangle shape</label>
+		<graphicData>
+			<texPath>sd_floorpaint/shapes/triangle/sd_floorpaint_triangle</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<description>totaly needed</description>
+	</ThingDef>
+	
+	<ThingDef ParentName="sd_floorpaint_ShapeBase">
+		<defName>sd_floorpaint_shape_triangle_middle</defName>
+		<label>triangle middle shape</label>
+		<graphicData>
+			<texPath>sd_floorpaint/shapes/triangle_middle/sd_floorpaint_triangle_middle</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<description>totaly needed</description>
+	</ThingDef>
+	
+	<!-- 				rectangles			-->
+	
+	<ThingDef ParentName="sd_floorpaint_ShapeBase">
+		<defName>sd_floorpaint_shape_rectangle</defName>
+		<label>rectangle shape</label>
+		<graphicData>
+			<texPath>sd_floorpaint/shapes/rectangle/sd_floorpaint_rectangle</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<description>totaly needed</description>
+	</ThingDef>
+	
+	<ThingDef ParentName="sd_floorpaint_ShapeBase">
+		<defName>sd_floorpaint_shape_rectangle_small</defName>
+		<label>rectangle small shape</label>
+		<graphicData>
+			<texPath>sd_floorpaint/shapes/rectangle_small/sd_floorpaint_rectangle_small</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<description>totaly needed</description>
+	</ThingDef>
+
+	<ThingDef ParentName="sd_floorpaint_ShapeBase">
+		<defName>sd_floorpaint_shape_slope</defName>
+		<label>slope+rectangle shape</label>
+		<graphicData>
+			<texPath>sd_floorpaint/shapes/slope/sd_floorpaint_slope</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<description>totaly needed</description>
+	</ThingDef>
+	
+	<ThingDef ParentName="sd_floorpaint_ShapeBase">
+		<defName>sd_floorpaint_rectangle_middle</defName>
+		<label>rectangle middle shape</label>
+		<graphicData>
+			<texPath>sd_floorpaint/shapes/rectangle_middle/sd_floorpaint_rectangle_middle</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<description>totaly needed</description>
+	</ThingDef>
+	
+	
+		<!-- 				circles			-->
+	
+	<ThingDef ParentName="sd_floorpaint_ShapeBase">
+		<defName>sd_floorpaint_shape_circle</defName>
+		<label>circle shape</label>
+		<graphicData>
+			<texPath>sd_floorpaint/shapes/circle/sd_floorpaint_circle</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<description>totaly needed</description>
+	</ThingDef>
+	
+	<ThingDef ParentName="sd_floorpaint_ShapeBase">
+		<defName>sd_floorpaint_shape_circle_reverse</defName>
+		<label>circle reverse shape</label>
+		<graphicData>
+			<texPath>sd_floorpaint/shapes/circle_reverse/sd_floorpaint_circle_reverse</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<description>totaly needed</description>
+	</ThingDef>
+	
+	<ThingDef ParentName="sd_floorpaint_ShapeBase">
+		<defName>sd_floorpaint_shape_circle_quater</defName>
+		<label>circle quater shape</label>
+		<graphicData>
+			<texPath>sd_floorpaint/shapes/circle_quater/sd_floorpaint_circle_quater</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<description>totaly needed</description>
+	</ThingDef>
+	
+	
+	<!-- 				special			-->
+	
+	
+	
+	<ThingDef ParentName="sd_floorpaint_ShapeBase">
+		<defName>sd_floorpaint_shape_star</defName>
+		<label>star shape</label>
+		<graphicData>
+			<texPath>sd_floorpaint/shapes/star/sd_floorpaint_star</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<description>totaly needed</description>
+	</ThingDef>
+	
+	
+	
+	
+	
+
+
+
+</Defs>

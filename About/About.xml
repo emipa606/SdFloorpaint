@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[sd] floorpaint</name>
+  <author>sulusdacor</author>
+  <targetVersion>0.18.1722</targetVersion>
+  <url>https://ludeon.com/forums/index.php?topic=26276.0</url>
+	<description>"[sd] floorpaint"
+	
+	"simple shapes to make stuff -> totally necessary to not get your colonists killed!!!!!!"
+	
+	- adds 1 research paint
+	- adds item paintbucket
+	- adds recipe to make paint bucket at stonecutter table
+	- adds category and in there a bunch of shapes that you need (you can build on top of them)
+	
+	Does not add more colors. It uses fabric+leather to color pick.
+	For more color variety you might want to get additional mods. 
+	
+	Download links for Dropbox or Steamworkshop link can be found in the ludeon forum thread linked above.</description>
+</ModMetaData>
