@@ -3,3 +3,8 @@ personal changelog for mod "[sd] floorpaint"
 - 15/01/2018
 
 	- added modsync file
+
+- 09/11/2018
+
+	- 1.0 update
+	- added dragabledimensions

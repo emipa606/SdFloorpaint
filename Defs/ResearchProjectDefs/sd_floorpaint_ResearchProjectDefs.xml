@@ -4,8 +4,7 @@
 	<ResearchProjectDef>
 		<defName>sd_floorpaint_research_paint</defName>
 		<label>paint</label>
-		<description>Unlocks paint to make shapes on the floor (uses textiles/leather for colors).
-		</description>
+		<description>Unlocks paint to make shapes on the floor (uses textiles/leather for colors).</description>
 		<baseCost>300</baseCost>
 		<techLevel>Neolithic</techLevel>
 		<researchViewX>1</researchViewX>
