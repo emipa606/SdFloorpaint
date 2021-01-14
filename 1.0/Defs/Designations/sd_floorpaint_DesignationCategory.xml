@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
- 
   <DesignationCategoryDef>
     <defName>sd_floorpaint_designationcategory_shapes</defName>
     <label>floorpaint</label>
@@ -9,8 +8,7 @@
     <specialDesignatorClasses>
       <li>Designator_Cancel</li>
       <li>Designator_Deconstruct</li>
-	  <li>Designator_RemoveFloor</li>
+      <li>Designator_RemoveFloor</li>
     </specialDesignatorClasses>
   </DesignationCategoryDef>
-
 </Defs>

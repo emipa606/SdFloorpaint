@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ============ make paint ============ -->
+  <RecipeDef>
+    <defName>sd_floorpaint_recipe_make_paint</defName>
+    <label>make paint</label>
+    <description>make paint.(1 stone makes 5)</description>
+    <jobString>Crafting</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>SmeltingSpeed</workSpeedStat>
+    <effectWorking>Sculpt</effectWorking>
+    <soundWorking>Recipe_Sculpt</soundWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksSandstone</li>
+            <li>BlocksGranite</li>
+            <li>BlocksLimestone</li>
+            <li>BlocksSlate</li>
+            <li>BlocksMarble</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BlocksSandstone</li>
+        <li>BlocksGranite</li>
+        <li>BlocksLimestone</li>
+        <li>BlocksSlate</li>
+        <li>BlocksMarble</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <sd_floorpaint_item_paint>5</sd_floorpaint_item_paint>
+    </products>
+    <recipeUsers>
+      <li>TableStonecutter</li>
+    </recipeUsers>
+    <researchPrerequisite>
+      <li>sd_floorpaint_research_paint</li>
+    </researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>sd_floorpaint_recipe_make_paint_ten</defName>
+    <label>make paint(10)</label>
+    <description>make paint.(10 stone makes 50)</description>
+    <jobString>Crafting</jobString>
+    <workAmount>5000</workAmount>
+    <workSpeedStat>SmeltingSpeed</workSpeedStat>
+    <effectWorking>Sculpt</effectWorking>
+    <soundWorking>Recipe_Sculpt</soundWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksSandstone</li>
+            <li>BlocksGranite</li>
+            <li>BlocksLimestone</li>
+            <li>BlocksSlate</li>
+            <li>BlocksMarble</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BlocksSandstone</li>
+        <li>BlocksGranite</li>
+        <li>BlocksLimestone</li>
+        <li>BlocksSlate</li>
+        <li>BlocksMarble</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <sd_floorpaint_item_paint>50</sd_floorpaint_item_paint>
+    </products>
+    <recipeUsers>
+      <li>TableStonecutter</li>
+    </recipeUsers>
+    <researchPrerequisite>
+      <li>sd_floorpaint_research_paint</li>
+    </researchPrerequisite>
+  </RecipeDef>
+</Defs>

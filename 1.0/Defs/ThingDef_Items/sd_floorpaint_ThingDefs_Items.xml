@@ -1,7 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-  
   <ThingDef ParentName="ResourceBase">
     <defName>sd_floorpaint_item_paint</defName>
     <label>paint bucket</label>
@@ -18,11 +16,10 @@
       <MarketValue>2</MarketValue>
       <Mass>1</Mass>
       <Flammability>1.0</Flammability>
-	  <DeteriorationRate>2.0</DeteriorationRate>
-	</statBases>
+      <DeteriorationRate>2.0</DeteriorationRate>
+    </statBases>
     <thingCategories>
       <li>Manufactured</li>
     </thingCategories>
   </ThingDef>
-
 </Defs>

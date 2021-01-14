@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>sd_floorpaint_research_paint</defName>
+    <label>paint</label>
+    <description>Unlocks paint to make shapes on the floor (uses textiles/leather for colors).</description>
+    <baseCost>300</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <researchViewX>1</researchViewX>
+    <researchViewY>1</researchViewY>
+    <tab>sd_floorpaint_ResearchTab</tab>
+    <prerequisites>
+      <li>CarpetMaking</li>
+    </prerequisites>
+  </ResearchProjectDef>
+</Defs>
