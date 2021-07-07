@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[sd] floorpaint (Continued)</name>
   <packageId>Mlie.SdFloorpaint</packageId>
@@ -8,6 +8,7 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
@@ -28,9 +29,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1258140195
 	
 [img]https://i.imgur.com/NOW7jU1.png[/img]
 not doing anymore updates for any rimworld mods, please feel free to update and upload the mods on steam, i dont mind.
-[h1]"[sd] floorpaint"[/h1]
+[h1]&quot;[sd] floorpaint&quot;[/h1]
 
-"simple shapes to make stuff - totally necessary to not get your colonists killed!!!!!!"
+&quot;simple shapes to make stuff - totally necessary to not get your colonists killed!!!!!!&quot;
 	
 	- adds 1 research paint
 	- adds item paintbucket
@@ -43,24 +44,14 @@ not doing anymore updates for any rimworld mods, please feel free to update and 
 
 [h1]Details:[/h1]
 
-you don't really need this mod. just me messing around.
+you don&apos;t really need this mod. just me messing around.
 
 
-the shapes are all 1x1 "buildings" with no hitpoints (=indestructible). you can deconstruct them, but get nothing back. they can stack on top, but i have no idea in what order and which/why some come out on top and some below.
+the shapes are all 1x1 &quot;buildings&quot; with no hitpoints (=indestructible). you can deconstruct them, but get nothing back. they can stack on top, but i have no idea in what order and which/why some come out on top and some below.
 
 you should be able to build almost anything on top of them (set to altitude level floor). you can build carpet/floors belwo them.
 
 so yeah have fun planting your decorations in your base or show the raids with arrows where to go^^
-
-[i]Ludeon forum topic:[/i]
-https://ludeon.com/forums/index.php?topic=26276
-
-[b]Dropbox:[/b] https://www.dropbox.com/s/myqo7jw4fgr2lod/sd_floorpaint_v1.7z?dl=0
-
-[b]GitHub:[b] https://github.com/sulusdacor/sd_floorpaint/releases
-
-Dropbox link to folder with old mods in forum topic for the mod.
-Changelog in forumtopic or about folder of mod.
 
 [img]https://i.imgur.com/Rs6T6cr.png[/img]
 [list]
@@ -73,4 +64,3 @@ Changelog in forumtopic or about folder of mod.
 [/list]
 </description>
 </ModMetaData>
-
