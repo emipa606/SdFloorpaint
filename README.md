@@ -1,31 +1,22 @@
 # SdFloorpaint
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of sulusdacors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1258140195
 
 - Removed the separate research-tab
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/SdFloorpaint]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 not doing anymore updates for any rimworld mods, please feel free to update and upload the mods on steam, i dont mind.
-# &quot;[sd] floorpaint&quot;
+# "[sd] floorpaint"
 
 
-&quot;simple shapes to make stuff - totally necessary to not get your colonists killed!!!!!!&quot;
+"simple shapes to make stuff - totally necessary to not get your colonists killed!!!!!!"
 	
 	- adds 1 research paint
 	- adds item paintbucket
@@ -39,16 +30,16 @@ not doing anymore updates for any rimworld mods, please feel free to update and 
 # Details:
 
 
-you don&apos;t really need this mod. just me messing around.
+you don't really need this mod. just me messing around.
 
 
-the shapes are all 1x1 &quot;buildings&quot; with no hitpoints (=indestructible). you can deconstruct them, but get nothing back. they can stack on top, but i have no idea in what order and which/why some come out on top and some below.
+the shapes are all 1x1 "buildings" with no hitpoints (=indestructible). you can deconstruct them, but get nothing back. they can stack on top, but i have no idea in what order and which/why some come out on top and some below.
 
 you should be able to build almost anything on top of them (set to altitude level floor). you can build carpet/floors belwo them.
 
 so yeah have fun planting your decorations in your base or show the raids with arrows where to go^^
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -58,6 +49,7 @@ so yeah have fun planting your decorations in your base or show the raids with a
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
