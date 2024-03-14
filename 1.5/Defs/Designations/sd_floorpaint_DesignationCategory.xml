@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DesignationCategoryDef>
+    <defName>sd_floorpaint_designationcategory_shapes</defName>
+    <label>floorpaint</label>
+    <description>adds shapes to draw on the ground.</description>
+    <order>1</order>
+    <specialDesignatorClasses>
+      <li>Designator_Cancel</li>
+      <li>Designator_Deconstruct</li>
+      <li>Designator_RemoveFloor</li>
+    </specialDesignatorClasses>
+  </DesignationCategoryDef>
+</Defs>
