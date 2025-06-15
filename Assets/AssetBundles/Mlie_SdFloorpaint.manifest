@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3359103459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b3c297159d284a526c4cb16a7a308b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6b3c297159d284a526c4cb16a7a308b4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/star/sd_floorpaint_star_east.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/triangle/sd_floorpaint_triangle_south.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/slope/sd_floorpaint_slope_north.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/square_small/sd_floorpaint_square_small_south.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/square/sd_floorpaint_square_east.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/triangle_middle/sd_floorpaint_triangle_middle_east.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/rectangle_small/sd_floorpaint_rectangle_small_east.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/ThingDefs_items/sd_floorpaint_item_paintbucket.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/triangle/sd_floorpaint_triangle_north.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/circle/sd_floorpaint_circle_south.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/rectangle/sd_floorpaint_rectangle_south.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/square/sd_floorpaint_square_south.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/rectangle_middle/sd_floorpaint_rectangle_middle_east.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/circle_reverse/sd_floorpaint_circle_reverse_north.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/rectangle/sd_floorpaint_rectangle_east.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/circle_reverse/sd_floorpaint_circle_reverse_east.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/circle_quater/sd_floorpaint_circle_quater_north.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/circle_quater/sd_floorpaint_circle_quater_east.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/circle/sd_floorpaint_circle_north.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/rectangle_middle/sd_floorpaint_rectangle_middle_north.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/rectangle/sd_floorpaint_rectangle_north.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/rectangle_small/sd_floorpaint_rectangle_small_south.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/triangle_middle/sd_floorpaint_triangle_middle_north.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/rectangle_small/sd_floorpaint_rectangle_small_north.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/star/sd_floorpaint_star_north.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/slope/sd_floorpaint_slope_east.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/square_small/sd_floorpaint_square_small_east.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/square_small/sd_floorpaint_square_small_north.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/circle/sd_floorpaint_circle_east.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/circle_quater/sd_floorpaint_circle_quater_south.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/square/sd_floorpaint_square_north.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/triangle/sd_floorpaint_triangle_east.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/rectangle_middle/sd_floorpaint_rectangle_middle_south.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/star/sd_floorpaint_star_south.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/circle_reverse/sd_floorpaint_circle_reverse_south.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/slope/sd_floorpaint_slope_south.png
+- Assets/Data/Mlie.SdFloorpaint/Textures/sd_floorpaint/shapes/triangle_middle/sd_floorpaint_triangle_middle_south.png
+Dependencies: []

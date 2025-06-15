@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make paint -->
+  <sd_floorpaint_recipe_make_paint.label>make paint</sd_floorpaint_recipe_make_paint.label>
+  <!-- EN: make paint.(1 stone makes 5) -->
+  <sd_floorpaint_recipe_make_paint.description>make paint.(1 stone makes 5)</sd_floorpaint_recipe_make_paint.description>
+  <!-- EN: Crafting -->
+  <sd_floorpaint_recipe_make_paint.jobString>Crafting</sd_floorpaint_recipe_make_paint.jobString>
+  <!-- EN: make paint(10) -->
+  <sd_floorpaint_recipe_make_paint_ten.label>make paint(10)</sd_floorpaint_recipe_make_paint_ten.label>
+  <!-- EN: make paint.(10 stone makes 50) -->
+  <sd_floorpaint_recipe_make_paint_ten.description>make paint.(10 stone makes 50)</sd_floorpaint_recipe_make_paint_ten.description>
+  <!-- EN: Crafting -->
+  <sd_floorpaint_recipe_make_paint_ten.jobString>Crafting</sd_floorpaint_recipe_make_paint_ten.jobString>
+</LanguageData>

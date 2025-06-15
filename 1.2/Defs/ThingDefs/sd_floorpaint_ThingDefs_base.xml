@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef Name="sd_floorpaint_ShapeBase" ParentName="BuildingBase" Abstract="True">
     <designationCategory>sd_floorpaint_designationcategory_shapes</designationCategory>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="sd_floorpaint_ShapeBase" ParentName="BuildingBase" Abstract="True">
+    <designationCategory>sd_floorpaint_designationcategory_shapes</designationCategory>
+    <altitudeLayer>Floor</altitudeLayer>
+    <passability>Standable</passability>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <WorkToBuild>50</WorkToBuild>
+      <Flammability>0.0</Flammability>
+    </statBases>
+    <size>(1,1)</size>
+    <stuffCategories>
+      <li>Leathery</li>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costStuffCount>1</costStuffCount>
+    <costList>
+      <sd_floorpaint_item_paint>1</sd_floorpaint_item_paint>
+    </costList>
+    <description>colorful paint.</description>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <rotatable>true</rotatable>
+    <blockWind>false</blockWind>
+    <blockLight>false</blockLight>
+    <holdsRoof>false</holdsRoof>
+    <tickerType>Never</tickerType>
+    <castEdgeShadows>False</castEdgeShadows>
+    <researchPrerequisites>
+      <li>sd_floorpaint_research_paint</li>
+    </researchPrerequisites>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <drawStyleCategory>Floors</drawStyleCategory>
+  </ThingDef>
+</Defs>

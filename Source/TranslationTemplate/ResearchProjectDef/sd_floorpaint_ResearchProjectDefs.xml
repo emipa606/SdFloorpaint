@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: paint -->
+  <sd_floorpaint_research_paint.label>paint</sd_floorpaint_research_paint.label>
+  <!-- EN: Unlocks paint to make shapes on the floor (uses textiles/leather for colors). -->
+  <sd_floorpaint_research_paint.description>Unlocks paint to make shapes on the floor (uses textiles/leather for colors).</sd_floorpaint_research_paint.description>
+</LanguageData>
