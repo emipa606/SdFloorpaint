@@ -1,15 +1,15 @@
 # [[sd] floorpaint (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2361392101)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of sulusdacors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1258140195
 
 - Removed the separate research-tab
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 not doing anymore updates for any rimworld mods, please feel free to update and upload the mods on steam, i dont mind.
 # "[sd] floorpaint"
@@ -38,13 +38,13 @@ you should be able to build almost anything on top of them (set to altitude leve
 
 so yeah have fun planting your decorations in your base or show the raids with arrows where to go^^
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -52,4 +52,4 @@ so yeah have fun planting your decorations in your base or show the raids with a
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/SdFloorpaint?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2361392101) | tags:  decorations
+[![Image](https://img.shields.io/github/v/release/emipa606/SdFloorpaint?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2361392101) | decorations
